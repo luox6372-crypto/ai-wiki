@@ -15,12 +15,15 @@ reviewed: false
 - `raw/`：raw，原始资料
 - `wiki/`：wiki，LLM 编译出来的 Markdown 知识库
 - `output/`：output，基于 wiki 生成的输出物
+- [[.llmwiki/新手使用手册|新手使用手册]]
 
 ## 当前状态
 
 - raw：`raw/`
 - wiki：`wiki/`
 - output：`output/`
+- AI 助手操作指南：`AGENTS.md`
+- 来源登记表：`.manifest.json`
 
 ## 已入库主题：AI 简史（1950–2026）
 
