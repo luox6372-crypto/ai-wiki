@@ -1,5 +1,7 @@
 name: Deploy Quartz site to GitHub Pages
 
+# Build and publish the public Quartz site whenever notes are pushed.
+
 on:
   push:
     branches:
